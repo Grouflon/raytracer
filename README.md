@@ -11,3 +11,4 @@
 ## Resources
 - https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29
 - http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing
+- https://www.khronos.org/opengl/wiki/Compute_Shader
